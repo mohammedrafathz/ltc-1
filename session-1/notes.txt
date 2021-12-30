@@ -1,13 +1,28 @@
 1. Introduction
     Learn web development and associated technologies.
 
+Web app is some piece of software that runs inside a browser. Chrome, IE, Edge, firefox, brave, opera, UC
+
+Full Stack web development - 
+Frontend - HTML - Hyper text markup language, CSS - Cascade stylesheets & JavaScript 
+Backend - Node JS - Netflix, Python - Instagram, Java J2EE - Salesforce SAP, ASP.NET - , PHP - Facebook
+Database - MongoDB(NoSQL), MySQL, Microsoft SQL server, Postgees ....
+
+Drag and drop - Wordpress, Magento, WIX, etc.,
+
+Frontend - HTML, CSS, JS & React JS
+Backend - Node JS, Express JS
+Database - MongoDB - (NoSQL  & SQL)
+
 2. What we will learn?
     Understanding computer number system
-    Using Linux terminal and Git
+    Using Linux terminal and Git - GitHub
     HTML, CSS and JavaScript
-    Node JS, MongoDB, ExpressJS, ReactJS
+    Node JS, MongoDB, ExpressJS, ReactJS - MERN stack
+    Deployment on cloud.
 
 3. VS code installtion and setup
+    - Text editor - IDE(Integrated development enviroment)
 
 4. Understanding how internet works
     https://www.youtube.com/watch?v=x3c1ih2NJEg
@@ -18,9 +33,15 @@
 
 6. Client / Server Architecture
     TCP and HTTP protocol
-    
 
+    my browswer HTTP request 
+    -> DNS - to convert domain name to IP address
+    -> Next the HTTP request is sent to the serve which corresponds to the IP address.
+    -> Server will send a response based your request
+    
 7. Request / response cycle
+7.1 Using python server
+ python3 -m http.server 8080
 
 8. weekend challenges
 
