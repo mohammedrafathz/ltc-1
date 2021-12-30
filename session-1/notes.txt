@@ -1,0 +1,27 @@
+1. Introduction
+    Learn web development and associated technologies.
+
+2. What we will learn?
+    Understanding computer number system
+    Using Linux terminal and Git
+    HTML, CSS and JavaScript
+    Node JS, MongoDB, ExpressJS, ReactJS
+
+3. VS code installtion and setup
+
+4. Understanding how internet works
+    https://www.youtube.com/watch?v=x3c1ih2NJEg
+
+5. What is worldwide web
+    https://home.cern/science/computing/birth-web
+    http://info.cern.ch/hypertext/WWW/TheProject.html
+
+6. Client / Server Architecture
+    TCP and HTTP protocol
+    
+
+7. Request / response cycle
+
+8. weekend challenges
+
+
