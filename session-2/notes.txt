@@ -1,0 +1,26 @@
+1. What is a webpage.
+
+2. Hypertext vs hyperlinks
+    Creating an hyper link in HTML
+    URL - Accessing resources using web browser
+    Ecommerce example
+
+3. A website - A group of interlinked web pages that exist on same domain.
+    -> Static website
+    -> Dynamic website
+
+4. Web Apps - A software program that exists on server and runs using a web browser.
+
+5. URI vs URL vs URN
+    https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn
+
+6. URL Fragments & Query strings
+
+7. DNS 
+    https://www.youtube.com/watch?v=72snZctFFtA
+
+8. HTML
+    anatomy of html document
+    history of html
+    tags
+    
