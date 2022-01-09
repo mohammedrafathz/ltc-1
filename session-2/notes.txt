@@ -25,4 +25,21 @@
     tags
 
 https://www.freecodecamp.org/learn/responsive-web-design/
+
+HTTP, FTP - file transfer protocol
+
+Ecommerce
+homepage
+    products
+        electronics
+        grocery
+        books
+    about
+        our company
+        contact
+    blog
+        article
+            articles-1
+            article-2
+
     
