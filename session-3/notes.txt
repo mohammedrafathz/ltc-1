@@ -1,0 +1,70 @@
+file system?
+
+UNIX - mainframes, file system, user manager
+major OS - Macos, windows, linux
+
+linux or macos - /user/rafath
+
+
+
+what are the main components of computer system - CPU, RAM, disk(Hard drive), motherboard
+
+input device - proccessing - output/ paper - punching cards
+
+Why, what, how, when, where
+
+why do we need hard disk? 
+  to store large amounts of data
+  secondary memory
+  Hard disk is a persistable form of memory
+
+  Ram is volatile form memory
+  ROM or hard drive is non volatile memory
+
+how are saving data on HDD or ssd or cd drive usb or flash
+
+1010 - binary 
+
+how does is the computer designed to understand all this / hardware part / software part
+
+read - which reads the data from the drive or disk
+write - which write the data to the drive or disk
+
+hello world from file system
+
+h/w - os(manage information to and from h/w and apps) - app(managing files)
+
+Directory and folder is the same thing
+windows - folder, linux mac - Directory
+
+/ - root
+
+/Applications
+/Library
+/system
+/Users/ 
+
+cli is controlled keyboard
+gui is mouse and keyboard controller
+command 
+
+how do I navigate through the file system
+
+ls - list all file and folder or Directory
+pwd - present working Directory or currently active dir
+mkdir
+
+/Users/rafath/Documents/learn-coding/batch-1
+
+.. - parent directory
+. - current directory 
+/ - root directory
+~ - user profile
+
+
+if the path starts from / its a absolute path
+if a path starts from ./ or ../ then is a relative path
+
+cd ../Documents/learn-coding/batch-1/session-3
+/Users/rafath/Desktop
+/Users/rafath/Documents/learn-coding/batch-1/session-3/notes.txt
