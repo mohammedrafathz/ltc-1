@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'unsteady';
+  src: url('./unsteady_oversteer.ttf');
+}
+/* ttf otf woff woff2 */
+.para{
+  font-family: 'unsteady';
+}
